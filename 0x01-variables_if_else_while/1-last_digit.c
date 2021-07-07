@@ -1,8 +1,12 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
+/*
+ * entry function = main
+ * main should always return 0
+ */
 
-int main (void)
+int main(void)
 {
 	int n;
 	int last_digit;

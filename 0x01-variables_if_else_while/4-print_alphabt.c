@@ -1,8 +1,10 @@
 #include <stdio.h>
 /*
+ * entry function is main
+ * program should always return 0
  * print alphabets in lowercase except q and e
  */
-int main (void)
+int main(void)
 {
 	char c;
 

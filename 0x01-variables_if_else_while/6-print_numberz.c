@@ -1,8 +1,10 @@
 #include <stdio.h>
 /*
+ * entry function = main
+ * program should return 0
  * to print all single digit numbers of base 10 using the putchar function
  */
-int main (void)
+int main(void)
 {
 	int n;
 

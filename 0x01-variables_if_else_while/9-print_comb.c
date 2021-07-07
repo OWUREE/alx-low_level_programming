@@ -1,8 +1,10 @@
 #include <stdio.h>
 /*
  * a program to print all possible combinations of single-digit numbers
+ * program entry function = main
+ * program should always return 0
  */
-int main (void)
+int main(void)
 {
 	int num;
 

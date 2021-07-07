@@ -1,8 +1,10 @@
 #include <stdio.h>
 /*
+ * entry function = main
+ * program should always return 0
  * a program to print alphabets in lowercase and in uppercase
  */
-int main (void)
+int main(void)
 {
 	char lower_case;
 	char upper_case;

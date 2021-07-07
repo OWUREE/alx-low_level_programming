@@ -1,8 +1,10 @@
 #include <stdio.h>
 /*
+ * entry function is main
+ * main funtion should always return 0
  * a program to print single digit numbers of base 10
  */
-int main (void)
+int main(void)
 {
 	int n;
 

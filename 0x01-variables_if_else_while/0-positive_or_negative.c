@@ -2,9 +2,10 @@
 #include <time.h>
 #include <stdio.h>
 /*
+ * program entry function: main
  * program should always return 0
  */
-int main (void)
+int main(void)
 {
 	int n;
 	srand(time(0));
