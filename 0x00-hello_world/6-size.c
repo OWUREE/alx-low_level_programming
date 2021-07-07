@@ -2,9 +2,11 @@
 #include <limits.h>
 /**
  * a program to print the size of data types
+ * entry funtion = main 
+ * should always return 0
  *
  */
-int main (void)
+int main(void)
 {
 	printf("Size of a char: %zu byte(s)\n", sizeof(char));
 	printf("Size of an int: %zu byte(s)\n", sizeof(int));
